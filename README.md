@@ -1,6 +1,6 @@
 # BRANDTONE
 
-BRANDTONE is a tool that helps rewrite marketing text to match specific brand tones while enforcing formatting rules.
+BRANDTONE is a powerful AI tool that helps rewrite marketing text to match specific brand tones while enforcing formatting rules. This repository is now connected to GitHub and ready for development!
 
 ## Features
 
